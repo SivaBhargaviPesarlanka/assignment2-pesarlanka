@@ -8,7 +8,8 @@ Cricket is a team sport played between two teams of eleven players each. It is a
 # Favourite Team
 ### Team-INDIA
 1. Dhoni
-    *Sam
-    *Dhawan
 4. Yuvraj
 7. Suresh Raina
+*Sam
+*Dhawan
+    *Jadeja
