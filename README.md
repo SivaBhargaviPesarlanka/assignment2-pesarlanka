@@ -10,6 +10,6 @@ Cricket is a team sport played between two teams of eleven players each. It is a
 1. Dhoni
 4. Yuvraj
 7. Suresh Raina
-*Sam
-*Dhawan
-    *Jadeja
+* Sam
+* Dhawan
+    * Jadeja
