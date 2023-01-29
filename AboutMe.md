@@ -8,7 +8,7 @@ I'm from INDIA. I completed my B.Tech in 2020 in the stream of CSE. I'm having 3
 
 The below table contains four countries to visit in your free time and also includes the reason to visit and how many days to spend.
 
-| Name of the Country | Reason | Days to spend |
+| ** Name of the Country ** | Reason | Days to spend |
 |-------------------- | ------ | ------------- |
 | INDIA | More places to visit | 30 days |
 | Australia | Having waterfalls | 25 days |
