@@ -24,3 +24,26 @@ The below table contains four countries to visit in your free time and also incl
 >
 > It's not how much we give but how much love we put into giving.
 >> **Mother Teresa**
+
+---
+
+# Code Fencing
+> Custom Checkboxes and Radio Buttons
+[Sample Code Snippet](https://css-tricks.com/snippets/css/custom-checkboxes-and-radio-buttons/)
+```
+li:not(#foo) > fieldset > div > span > input[type='radio'],
+li:not(#foo) > fieldset > div > span > input[type='checkbox'] {
+  /* Hide the input, but have it still be clickable */
+  opacity: 0;
+
+  float: left;
+  width: 18px;
+}
+
+
+li:not(#foo) > fieldset > div > span > input[type='radio'] + label,
+li:not(#foo) > fieldset > div > span > input[type='checkbox'] + label {
+  margin: 0;
+  clear: none;
+
+```
