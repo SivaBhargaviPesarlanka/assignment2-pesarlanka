@@ -14,3 +14,12 @@ The below table contains four countries to visit in your free time and also incl
 | Australia | Having waterfalls | 25 days |
 | USA | Contains more National parks | 30 days |
 | Canada | Has very good bird sanctuary | 27 days |
+
+---
+
+# Pithy Quotes 
+
+> Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.
+>> **Dr AP J Abdul kalam**
+> It's not how much we give but how much love we put into giving.
+>> **Mother Teresa**
