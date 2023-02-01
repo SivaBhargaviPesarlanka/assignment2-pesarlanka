@@ -28,7 +28,10 @@ The below table contains four countries to visit in your free time and also incl
 ---
 
 # Code Fencing
-> Custom Checkboxes and Radio Buttons
+> How to disable text selection highlighting
+[Click the link to know CSS question](https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting)
+
+
 [Sample Code Snippet](https://css-tricks.com/snippets/css/custom-checkboxes-and-radio-buttons/)
 ```
 li:not(#foo) > fieldset > div > span > input[type='radio'],
